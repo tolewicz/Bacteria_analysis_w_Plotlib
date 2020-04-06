@@ -1,7 +1,7 @@
-/* body{ 
+body{ 
     background-image: url("bg1.jpg");
     background-size: 100% 110%;
-} */
+}
 
   .jumbotron{ /*will apply to all objects with class jumbotron*/
       background-image: url("bacterias.jpg");
