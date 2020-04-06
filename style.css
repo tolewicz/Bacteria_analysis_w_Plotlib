@@ -1,0 +1,15 @@
+/* body{ 
+    background-image: url("bg1.jpg");
+    background-size: 100% 110%;
+} */
+
+  .jumbotron{ /*will apply to all objects with class jumbotron*/
+      background-image: url("bacterias.jpg");
+      background-size: 100% 100%; /*will span the picture to full avaliable place 100%*/
+      text-align: center;
+  }
+
+  #gauge {
+    margin: 0 auto;
+    height: 500px;
+  }
